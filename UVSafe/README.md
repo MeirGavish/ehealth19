@@ -4,13 +4,6 @@ The app monitors UV exposure in real time using the Microsoft Band as well as th
 It was made in Xamarin.Android and uses Microsoft Azure Cloud Services.
 It includes a computer vision algorithm to determine the user's Fitzpatrick Skin Type based on an image.
 
-
-# App Website
-https://galklein1990.wixsite.com/uvsafeapp
-
-# App Video
-https://biteable.com/watch/uvsafe-app-explainer-video-2197023/
-
 # Sources
 For calculation of safe exposure time and definition of UV Index
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3709783/ 
